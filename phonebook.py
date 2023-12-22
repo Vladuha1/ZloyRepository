@@ -85,5 +85,4 @@ while True:
     elif command == "edit":
         edit()
     else:
-        print("Неверная команда")
-        
+        print("Неверная команда")      
